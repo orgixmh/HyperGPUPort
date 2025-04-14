@@ -81,7 +81,7 @@ sudo visudo
 Add the following line, replacing kostas with your actual username:
 (will soon add it to the install script)
 ```bash
-kostas ALL=(ALL) NOPASSWD: /opt/hypergpuport/start-win-gtk.sh, /opt/hypergpuport/start-win-linux.sh
+YOUR_USERNAME_HERE ALL=(ALL) NOPASSWD: /opt/hypergpuport/start-win-gtk.sh, /opt/hypergpuport/start-win-linux.sh
 ```
 3. run the installer
 

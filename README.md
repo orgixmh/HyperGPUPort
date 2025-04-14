@@ -68,22 +68,10 @@ Planned features for future versions of HyperGPUPort:
 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/hypergpuport.git
-cd hypergpuport
+git clone https://github.com/yourusername/HyperGPUPort.git
+cd HyperGPUPort
 ````
-
-
-2. Edit your /etc/sudoers
-```bash
-sudo visudo
-````
-
-Add the following line, replacing kostas with your actual username:
-(will soon add it to the install script)
-```bash
-YOUR_USERNAME_HERE ALL=(ALL) NOPASSWD: /opt/hypergpuport/start-win-gtk.sh, /opt/hypergpuport/start-win-linux.sh
-```
-3. run the installer
+2. run the installer
 
 ```bash
 sudo hgp --install

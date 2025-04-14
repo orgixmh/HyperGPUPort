@@ -1,2 +1,2 @@
 #!/bin/bash
-systemctl restart windows-vm.service
+systemctl restart hypergpuport.service

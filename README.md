@@ -68,7 +68,7 @@ Planned features for future versions of HyperGPUPort:
 1. Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/HyperGPUPort.git
+git clone https://github.com/orgixmh/HyperGPUPort.git
 cd HyperGPUPort
 ````
 2. run the installer
